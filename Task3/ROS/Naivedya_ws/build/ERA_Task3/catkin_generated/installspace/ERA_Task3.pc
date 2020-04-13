@@ -1,0 +1,8 @@
+prefix=/home/naivedya/Naivedya_ws/install
+
+Name: ERA_Task3
+Description: Description of ERA_Task3
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
